@@ -37,7 +37,7 @@
 "string" = { fg = "orange" }
 "constant.character" = { fg = "orange" }
 "string.regexp" = { fg = "gold" }
-"constant.numeric" = { fg = "pale_green" }
+"constant.numeric" = { fg = "bright_gold" }
 "constant.character.escape" = { fg = "gold" }
 
 "markup.heading" = { fg = "blue2", modifiers = ["bold"] }
@@ -93,6 +93,7 @@ white = "#ffffff"
 orange = "#ce9178"
 gold = "#d7ba7d"
 gold2 = "#cca700"
+bright_gold = "#fab700"
 pale_green = "#b5cea8"
 dark_green = "#6A9955"
 light_gray = "#d4d4d4"
